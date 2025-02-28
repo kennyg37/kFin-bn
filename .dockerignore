@@ -1,0 +1,20 @@
+# Ignore the virtual environment directory
+venv/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore environment variable files
+.env
+
+# Ignore git files
+.git
+.gitignore
+
+# Ignore Dockerfile itself
+Dockerfile
+
+# Ignore README file
+README.md
